@@ -1,5 +1,11 @@
+@import url("styles/header.css");
 :root{
-      --cor-de-fundo: #ebecee;
+    --cor-de-fundo: #EBECEE;
 }
 
-h1{
+.titulo-principal{
+    color: black;
+}
+body{
+    background-color: var(--cor-de-fundo);
+}
